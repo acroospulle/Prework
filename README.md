@@ -17,4 +17,4 @@ The following **required** functionality is complete:
 
 Here's a walkthrough of implemented user stories:
 
-http://g.recordit.co/Cq77D3UlFW.gif
+![Cq77D3UlFW](https://user-images.githubusercontent.com/79591114/146652663-8c3f8ac7-0c14-4ad7-8b6e-6dccf87da218.gif)
